@@ -9,3 +9,9 @@
 # Welcome to ENTR-451
 
 This is an example of a GitHub repository.
+
+**Day 0**
+
+1. Coding is fun?
+2. We love Linus!
+3. All good things come in 3.
